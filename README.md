@@ -8,7 +8,7 @@
  * Supported cpu architecture: arm64-v8a; armeabi-v7a; x86; x86_64
 
 # installation
- Step 1. Add the JitPack repository to your build file\n
+ Step 1. Add the JitPack repository to your build file
  build.gradle(Project)
      allprojects {
          repositories {
