@@ -16,7 +16,7 @@
              maven { url 'https://jitpack.io' }  
          }  
      }  
- Step 2. Add the dependency  
+ * Step 2. Add the dependency  
  build.gradle(app)  
      dependencies {  
          implementation 'com.github.elinkthings:BodyFatScaleSDKRepositoryAndroid:1.2.6'  
